@@ -2994,7 +2994,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D094E46117775B1000906BF7 /* Mac-Application.xcconfig */;
 			buildSettings = {
-				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
+				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
 				GCC_PREFIX_HEADER = "ReactiveCocoaTests/ReactiveCocoaTests-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"\"$(PROJECT_DIR)/../external/specta/src\"",
@@ -3054,7 +3054,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D094E46117775B1000906BF7 /* Mac-Application.xcconfig */;
 			buildSettings = {
-				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
+				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
 				GCC_PREFIX_HEADER = "ReactiveCocoaTests/ReactiveCocoaTests-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"\"$(PROJECT_DIR)/../external/specta/src\"",
@@ -3072,7 +3072,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D094E46117775B1000906BF7 /* Mac-Application.xcconfig */;
 			buildSettings = {
-				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
+				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
 				GCC_PREFIX_HEADER = "ReactiveCocoaTests/ReactiveCocoaTests-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"\"$(PROJECT_DIR)/../external/specta/src\"",
@@ -3199,7 +3199,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D094E46117775B1000906BF7 /* Mac-Application.xcconfig */;
 			buildSettings = {
-				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
+				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
 				GCC_PREFIX_HEADER = "ReactiveCocoaTests/ReactiveCocoaTests-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"\"$(PROJECT_DIR)/../external/specta/src\"",
